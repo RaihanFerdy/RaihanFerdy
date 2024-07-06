@@ -35,13 +35,13 @@
 <div align="center">
     <!-- Stats Github -->
     <a href="https://github.com/RaihanFerdy">
-    <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanFerdy&layout=compact&title_color=ffffff&theme=dracula" alt="RaihanFerdy's github stats">
+    <img align="center" height="152px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaihanFerdy&theme=react&show_icons=true&hide_border=false&layout=compact" alt="RaihanFerdy's github stats">
     </a>
     <a href="https://github.com/RaihanFerdy">
-    <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=RaihanFerdy&hide=issues&count_private=true&show_icons=true&title_color=ffffff&&icon_color=ffffff&&theme=dracula" alt="RaihanFerdy's github stats">
+    <img align="center" height="152px" src="https://github-readme-stats.vercel.app/api?username=RaihanFerdy&theme=react&show_icons=true&hide_border=false&count_private=false" alt="RaihanFerdy's github stats">
     </a>
     <a href="https://github.com/RaihanFerdy">
-    <img align="center" width="645px" src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanFerdy&theme=default&fire=ffffff&ring=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&theme=dracula" alt="RaihanFerdy's streak stats">
+    <img align="center" width="645px" src="https://github-readme-streak-stats.herokuapp.com/?user=RaihanFerdy&theme=react&hide_border=false" alt="RaihanFerdy's streak stats">
     </a>
 </div>
 
