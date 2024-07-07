@@ -18,7 +18,7 @@
     <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/linux-colored.svg" width="50"></a>
     <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/nodejs-colored.svg" width="50"></a>
     <a href="https://flask.palletsprojects.com/en/3.0.x/api/"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/flask.svg" width="50"></a>
-    <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/docker-colored.svg" width="50"></a>
+    <a href="https://docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/main/public/icons/skills/docker-colored.svg" width="50"></a>
 </div>
 
 <h2>Find me at</h2>
