@@ -11,38 +11,40 @@
 <p>I'm Ferdy, a Informatics Engineering Student from Indonesia. I’m interested in Backend Development and Cyber Security.</p>
 
 <h2>Tech stack</h2>
-<table>
-    <tr>
-        <td valign="top" width="33%">
-            <h3 align="center">Frontend</h3>
-                <div align="center">  
-                    <a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" alt="HTML5" height="50" /></a>  
-                    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" alt="CSS3" height="50" /></a>  
-                    <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" alt="JavaScript" height="50" /></a>  
-                </div>
-        </td>
-        <td valign="top" width="33%">
-            <h3 align="center">Backend</h3>
-                <div align="center">  
-                    <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg" alt="Python" height="50" /></a>  
-                    <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" alt="JavaScript" height="50" /></a>  
-                    <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" alt="Node.js" height="50" /></a>  
-                    <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PHP-Dark.svg" alt="MongoDB" height="50" /></a>  
-                    <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MongoDB.svg" alt="MongoDB" height="50" /></a>  
-                    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg" alt="MySQL" height="50" /></a>  
-                </div>
-        </td>
-        <td valign="top" width="33%">
-            <h3 align="center">DevOps</h3>
-                <div align="center">  
-                    <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg" alt="Linux" height="50" /></a>  
-                    <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" alt="Git" height="50" /></a>  
-                    <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Bash-Dark.svg" alt="Bash" height="50" /></a>  
-                    <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" alt="Docker" height="50" /></a>  
-                </div>
-        </td>
-    <tr>
-<table>
+<div align="center">
+    <table>
+        <tr>
+            <td valign="top" width="33%">
+                <h3 align="center">Frontend</h3>
+                    <div align="center">  
+                        <a href="https://www.w3schools.com/html/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/HTML.svg" alt="HTML5" height="50" /></a>  
+                        <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/CSS.svg" alt="CSS3" height="50" /></a>  
+                        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" alt="JavaScript" height="50" /></a>  
+                    </div>
+            </td>
+            <td valign="top" width="33%">
+                <h3 align="center">Backend</h3>
+                    <div align="center">  
+                        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Dark.svg" alt="Python" height="50" /></a>  
+                        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/JavaScript.svg" alt="JavaScript" height="50" /></a>  
+                        <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/NodeJS-Dark.svg" alt="Node.js" height="50" /></a>  
+                        <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/PHP-Dark.svg" alt="MongoDB" height="50" /></a>  
+                        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MongoDB.svg" alt="MongoDB" height="50" /></a>  
+                        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/MySQL-Dark.svg" alt="MySQL" height="50" /></a>  
+                    </div>
+            </td>
+            <td valign="top" width="33%">
+                <h3 align="center">DevOps</h3>
+                    <div align="center">  
+                        <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Linux-Dark.svg" alt="Linux" height="50" /></a>  
+                        <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Git.svg" alt="Git" height="50" /></a>  
+                        <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Bash-Dark.svg" alt="Bash" height="50" /></a>  
+                        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Docker.svg" alt="Docker" height="50" /></a>  
+                    </div>
+            </td>
+        <tr>
+    <table>
+</div>
 
 <h2>Connect with me</h2>
 <div align="center">  
