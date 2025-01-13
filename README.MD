@@ -67,7 +67,7 @@
     <a href="https://github.com/RaihanFerdy">
         <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake.svg" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
-        <img src="./assets/github-contribution-grid-snake.svg" alt="github-snake" />
+        <img src="./assets/github-contribution-grid-snake-dark.svg" alt="github-snake" />
     </a>
 </div>
 
