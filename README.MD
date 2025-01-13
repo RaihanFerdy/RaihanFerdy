@@ -64,7 +64,9 @@
         <img align="center" height="152px" src="https://github-readme-stats.vercel.app/api?username=RaihanFerdy&theme=react&show_icons=true&hide_border=false&count_private=false" alt="RaihanFerdy's github stats">
     </a>
     <a href="https://github.com/RaihanFerdy">
-        <img src="./assets/github-contribution-grid-snake.svg" alt="github-snake" />
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake.svg" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+        <img src="./assets/github-contribution-grid-snake-dark.svg" alt="github-snake" />
     </a>
 </div>
 
